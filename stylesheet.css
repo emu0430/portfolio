@@ -44,7 +44,7 @@ body {
   .white{
     background-image: url(https://github.com/emu0430/portrait/blob/main/background_top.png?raw=true);
     background-size: cover;
-    height: 600px;
+    height: 400px;
     width: 100%;
   }
 
@@ -55,7 +55,7 @@ body {
   .granpa{
     background-image: url(https://github.com/emu0430/portrait/blob/main/background_work.png?raw=true);
     background-size: cover;
-    height: 500px;
+    height: 600px;
     width: 100%;
   
   }
@@ -63,7 +63,7 @@ body {
   .uv{
     background-image: url(https://github.com/emu0430/portrait/blob/main/background_kids.png?raw=true);
     background-size: cover;
-    height: 500px;
+    height: 400px;
     width: 100%;
   }
 
