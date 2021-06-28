@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  img{
+    margin: 50px 10px 10px 0;
+    width: 300px;
+  }
+
+ h2{
+   float: right;
+   margin-right:50px;
+ }
+
+ .x{
+   padding: 50px;
+ }
+
+ h3{
+   color:white;
+ }
+
+ p{
+   color:white;
+ }
+
+  header {
+    color:white;
+    height: 65px;
+    width: 100%;
+    background-color: rgba(18, 71, 16, 0);
+    position: fixed;
+    top: 0;
+    z-index: 10;
+  }
+
+  
+
+  .white{
+    background-image: url(https://github.com/emu0430/portrait/blob/main/background_top.png?raw=true);
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+  }
+
+ 
+
+   /* ホワイトグランパUVテキスト*/
+
+  .granpa{
+    background-image: url(https://github.com/emu0430/portrait/blob/main/background_work.png?raw=true);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+  
+  }
+
+  .uv{
+    background-image: url(https://github.com/emu0430/portrait/blob/main/background_kids.png?raw=true);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+  }
+
+  .text{
+    background-image: url(https://github.com/emu0430/portrait/blob/main/background_grd.png?raw=true);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+  }
